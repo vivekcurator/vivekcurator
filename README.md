@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @vivekcurator
+- 👋 Hi, I’m Vivek
 - 👀 I’m interested in data science, ML and IoT
 - 🌱 I’m currently learning Data Science.
 - 💞️ I’m looking to collaborate on solving real life problems.
