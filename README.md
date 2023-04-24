@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Hi, I’m Vivek<br>👀 I’m interested in data science, ML and IoT<br>🌱 I’m currently learning Data Science.<br>💞️ I’m looking to collaborate on solving real life problems.<br>📫 How to reach me - viveksainicse@gmail.com
+👋 Hi, I’m Vivek<br>👀 I’m a data analyst and an AI enthusiast.<br>🌱 I’m currently learning AI.<br>💞️ I’m looking to collaborate on solving real life problems.<br>📫 How to reach me - viveksainicse@gmail.com
 
 
 # 💻 Tech Stack:
